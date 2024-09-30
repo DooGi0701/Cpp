@@ -9,7 +9,7 @@ Ram::Ram() {
 }
 
 Ram::~Ram() {
-    std::cout << "�޸� ���ŵ�" << std::endl;
+    std::cout << "¸Þ¸ð¸® Á¦°ÅµÊ" << std::endl;
 }
 
 char Ram::read(int address) {
